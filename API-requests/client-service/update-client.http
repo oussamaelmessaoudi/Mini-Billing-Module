@@ -1,0 +1,10 @@
+### we update the id of a client
+PUT http://localhost:4000/clients/{{id}}
+Content-Type: application/json
+
+{
+  "nom": "Soulaimane ELMESSAOUDI",
+  "email": "oussamaelmessaoudi@gmail.com",
+  "siret": "12345678912345"
+}
+###

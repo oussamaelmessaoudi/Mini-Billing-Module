@@ -1,0 +1,4 @@
+### delete a client
+DELETE http://localhost:4000/clients/{{id}}
+
+###

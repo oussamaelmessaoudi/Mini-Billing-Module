@@ -1,0 +1,11 @@
+### Create a client
+POST http://localhost:4000/clients
+Content-Type: application/json
+
+{
+  "nom": "Oussama ELMESSAOUDI",
+  "email": "oussamaelmessaoudi@gmail.com",
+  "siret": "12345678912345"
+}
+
+###
